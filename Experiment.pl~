@@ -1,0 +1,4 @@
+sister(sue,bill).
+parent(ann,sam).
+male(jo).
+female(riya).

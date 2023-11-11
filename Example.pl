@@ -1,0 +1,26 @@
+parent(john, william).
+parent(john, david).
+parent(john, adam).
+parent(megan, william).
+parent(megan, william).
+parent(megan, william).
+wife(william, emma).
+wife(david, olivia).
+wife(adam, lily).
+parent(william, chris).
+parent(william, stephanie).
+parent(emma, chris).
+parent(emma, stephanie).
+parent(david, wayne).
+parent(david, tiffany).
+parent(david, julie).
+parent(david, neil).
+parent(david, peter).
+parent(olivia, wayne).
+parent(olivia, tiffany).
+parent(olivia, julie).
+parent(olivia, neil).
+parent(olivia, peter).
+parent(adam, sophia).
+parent(lily, sophia).
+

@@ -1,0 +1,4 @@
+parent(tom, bob).
+parent(bob, liz).
+Predecessor(X,Z):- parent(X,Z).
+Predecessor(X, Z):-parent(X, Y), predecessor (Y,Z).
